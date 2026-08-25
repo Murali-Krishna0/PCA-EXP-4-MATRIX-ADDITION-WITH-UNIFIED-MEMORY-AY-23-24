@@ -528,4 +528,4 @@ int main(int argc, char **argv)
 <img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/fe6dd132-25e3-4025-b28a-df24c4779a10" />
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given more time by a difference of 0.007516 sec.
